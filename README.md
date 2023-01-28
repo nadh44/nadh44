@@ -2,14 +2,14 @@
 
 ❤️ I'm passionate about:
 
- React
-Javascript
-Tailwind
+    React
+    Javascript
+    Tailwind
+
 💻 Programming languages:
 
 Javascript
 Ruby
-
 
 - 👀 I’m interested in Ruby on Rails...
 - 🌱 I’m currently learning Tailwind & React...
