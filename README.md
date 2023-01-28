@@ -1,4 +1,16 @@
 - 👋 Hi, I’m Gopinadh Rapeti
+
+❤️ I'm passionate about:
+
+ React
+Javascript
+Tailwind
+💻 Programming languages:
+
+Javascript
+Ruby
+
+
 - 👀 I’m interested in Ruby on Rails...
 - 🌱 I’m currently learning Tailwind & React...
 - 💞️ I’m looking to collaborate on ...
