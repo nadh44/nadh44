@@ -9,8 +9,10 @@
 💻 Programming languages:
 
 Javascript
+
 Ruby
 
+-  I'm a  Software Engineer at MalibuITLabs .
 - 👀 I’m interested in Ruby on Rails...
 - 🌱 I’m currently learning Tailwind & React...
 - 💞️ I’m looking to collaborate on ...
